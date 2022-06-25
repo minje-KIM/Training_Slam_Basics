@@ -2,8 +2,8 @@
 //  Compile this code using CMake.
 //  We will gonna make CMakeLists.txt file.
 #include <iostream>
-#include "lib1.h"
-#include "lib2.h"
+#include "lib_1.h"
+#include "lib_2.h"
 
 using namespace std;
 

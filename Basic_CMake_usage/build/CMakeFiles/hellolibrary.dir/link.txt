@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhellolibrary.a  CMakeFiles/hellolibrary.dir/lib_1.cpp.o CMakeFiles/hellolibrary.dir/lib_2.cpp.o
+/usr/bin/ranlib libhellolibrary.a
